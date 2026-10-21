@@ -1,0 +1,14 @@
+# Archivos generados al compilar
+*.class
+/build/
+/out/
+/Bin/
+
+# Configuracion local del editor
+.idea/
+.vscode/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
