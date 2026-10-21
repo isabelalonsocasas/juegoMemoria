@@ -58,6 +58,21 @@ La aplicación incluye un menú para elegir el juego, botones para volver al ini
 
 La [memoria en PDF](Proyecto.pdf) contiene la motivación del proyecto, la descripción de los minijuegos, capturas de las pantallas y los conocimientos adquiridos.
 
+## Cómo ejecutarlo
+
+### Requisitos
+
+- Windows.
+- JDK 17 o posterior instalado, con los comandos `java` y `javac` disponibles desde la terminal.
+
+El código utiliza rutas de Windows para las imágenes y el sonido, por lo que es importante conservar la estructura de carpetas. El archivo `ejecutar.bat` entra automáticamente en `Sources` para iniciar la aplicación.
+
+### Opción 1: archivo de inicio
+
+1. Descarga el repositorio desde **Code → Download ZIP** y descomprímelo.
+2. Abre la carpeta del proyecto y haz doble clic en **`ejecutar.bat`**.
+3. El script compilará el código en la carpeta `build` y abrirá el menú principal.
+
 ## Autoría
 
 **Isabel Alonso Casas** · Mayo de 2025.
